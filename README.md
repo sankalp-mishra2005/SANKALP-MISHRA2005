@@ -1,123 +1,141 @@
-# 👋 Hi, I'm Sankalp Mishra
+<div align="center">
 
-### Final-year Software Engineer · Full-Stack · Backend · AI
+# SANKALP MISHRA
 
-I build practical software systems across **backend engineering, full-stack development, and applied AI**.  
-Currently focused on **DSA, system design, scalable backend architecture, and shipping production-minded projects**.
+`FULL-STACK` · `BACKEND` · `AI`
 
-🚀 **Open to Software Engineer / SDE / Graduate Engineer opportunities.**
+### I like building things that are useful, reliable, and actually work.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-mishra-b09328216)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:mishrasankalp2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/sankalp-mishra2005)
+
+`Final-year @ VIT Bhopal` · `India`
+
+`C++` · `Java` · `TypeScript` · `Python`
+
+**Looking for:** Software Engineer / SDE / Graduate Engineer roles
+
+</div>
 
 ---
 
-## 💫 About Me
+## What I've Built
 
-- 🎓 Final-year engineering student at **VIT Bhopal University**
-- 💻 Strongest interests: **Backend Engineering, Full-Stack Development & Applied AI**
-- 🧠 Currently sharpening **DSA, System Design, Databases and Distributed Systems**
-- 🔨 I prefer building complete systems over tutorial-only projects
-- 🤝 Open to collaborating on **open-source, developer tools, AI and impactful software projects**
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/sankalp-mishra-b09328216) · [Email](mailto:mishrasankalp2005@gmail.com)
+### [BSP Delay Management System](https://github.com/sankalp-mishra2005/bsp-delay-management-system)
+
+A web-based system for recording, tracking, and analysing manufacturing delays across different shops.
+
+`Java` `Spring Boot` `Oracle` `JPA` `REST APIs` `JavaScript`
+
+- Track delay records across multiple shops
+- Store and manage operational data in Oracle
+- Generate daily, MTD, and YTD reports
+- Export reports to Excel and PDF
+- Document APIs with Swagger / OpenAPI
 
 ---
 
-## 🏗️ Featured Projects
+### [HYRD — AI Interviewer](https://github.com/sankalp-mishra2005/HYRD)
 
-### 🏭 [BSP Delay Management System](https://github.com/sankalp-mishra2005/bsp-delay-management-system)
-Enterprise-style operational system for tracking, analyzing and reporting manufacturing delays.
+An AI interview platform I built to make technical interviews more interactive and personalised.
 
-**Java · Spring Boot · Oracle · JPA · REST APIs · JavaScript · Chart.js**
+`React` `TypeScript` `Express` `Bun` `PostgreSQL` `WebSockets` `Gemini`
 
-- Multi-shop delay management and reporting
-- Structured database design for operational data
-- Daily, MTD and YTD analytics
-- Excel / PDF report generation
-- REST APIs with Swagger / OpenAPI
+- Builds a candidate profile from different sources
+- Runs interviews in real time
+- Supports voice-based interaction
+- Uses AI to generate interview feedback
+- Uses a monorepo with shared packages
 
-### 🤖 [AI Interviewer — HYRD](https://github.com/sankalp-mishra2005/HYRD)
-AI-powered interview platform designed around personalized, real-time technical interviews.
+---
 
-**React · TypeScript · Express · Bun · PostgreSQL · WebSockets · Gemini**
+### [YOLOv8 Distance Detection](https://github.com/sankalp-mishra2005/cv-distance-detection-yolov8)
 
-- Candidate profile aggregation
-- Real-time interview workflow
-- Voice-based interaction
-- AI-generated evaluation and feedback
-- Monorepo architecture with shared packages
+A small computer-vision project for detecting objects and estimating their distance from a camera.
 
-### 👁️ [Computer Vision Distance Detection](https://github.com/sankalp-mishra2005/cv-distance-detection-yolov8)
-Real-time object detection and distance-estimation system.
-
-**Python · OpenCV · YOLOv8**
+`Python` `OpenCV` `YOLOv8`
 
 - Real-time object detection
-- Distance estimation from camera input
-- Vision-based safety monitoring
+- Distance estimation from video input
+- Simple safety-monitoring use case
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend & Systems
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111111?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-111111?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### AI / ML
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
+## What I'm Working On
 
-**DSA → Backend Engineering → System Design → Databases → Distributed Systems → Applied AI**
+`DSA` · `Backend Engineering` · `System Design` · `Databases` · `Distributed Systems`
 
-I’m optimizing for strong fundamentals and the ability to **design, build, debug and ship real software**.
-
----
-
-## 📊 GitHub Activity
-
-![](https://streak-stats.demolab.com/?user=sankalp-mishra2005&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sankalp-mishra2005&theme=dark&hide_border=false&layout=compact)
+Right now I'm spending most of my time getting better at the fundamentals and turning what I learn into projects.
 
 ---
 
-## 🌐 Connect
+## What I'm Looking For
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-mishra-b09328216)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrasankalp2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp-mishra2005)
+I'm looking for a first software engineering role where I can work on real products, learn from experienced engineers, and take ownership of the things I build.
+
+`Software Engineer` · `SDE` · `Backend Engineer` · `Full-Stack Engineer` · `Graduate Engineer`
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/sankalp-mishra-b09328216) · [Email](mailto:mishrasankalp2005@gmail.com) ·
